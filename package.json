@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-googlemaps",
+  "name": "cordova-plugin-googlemaps-avoid-conflict",
   "version": "1.4.0",
   "description": "Google Maps native SDK for Android and iOS",
   "cordova": {
-    "id": "cordova-plugin-googlemaps",
+    "id": "cordova-plugin-googlemaps-avoid-conflict",
     "platforms": [
       "android",
       "ios"
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mapsplugin/cordova-plugin-googlemaps.git"
+    "url": "https://github.com/John-F-C2/cordova-plugin-googlemaps-avoid-conflict.git"
   },
   "keywords": [
     "google",
