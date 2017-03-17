@@ -1,3 +1,6 @@
+This version sets the Google Play Version so that it doesn't conflict with other plugins.  This was created to stop a crash when combined with PushBots.
+
+
 Cordova GoogleMaps plugin for iOS and Android
 ==========================
 This plugin is a thin wrapper for [Google Maps Android API](https://developers.google.com/maps/documentation/android/) and [Google Maps SDK for iOS](https://developers.google.com/maps/documentation/ios/).
